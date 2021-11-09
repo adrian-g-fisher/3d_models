@@ -1,4 +1,4 @@
-<h1>3D Models</h1>
+<h1></h1>
 <p>
 <a href="https://adrian-g-fisher.github.io/3d_models/kosciuszko/kosciuszko.html">Mt Kosciuszko</a>
 <ul style="padding-left:20px">
