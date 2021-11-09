@@ -12,19 +12,11 @@ body {
 		padding:0px;
 		background-color:white;
 }
-#banner {
-		width:896px;
-		height:100px;
-		margin:0px auto;
-		border:0px solid #bbb;
-		padding:0px;
-		background-color:white;
-}
 .clear-both {
         clear: both;
 }
 #title {
-        float:left;
+        float:centre;
         height:70px;
         width:500px;
         margin-top:10px;
