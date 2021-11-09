@@ -1,17 +1,17 @@
 # 3D Models
-
+<p>
 <a href="https://adrian-g-fisher.github.io/3d_models/kosciuszko/kosciuszko.html">Mt Kosciuszko</a>
-<ul>
-<li>2 km x 2 km tile</li>
-<li>2 m resolution lidar DEM</li>
-<li>vertical exaggeration of 2</li>
+<ul style="padding-left:20px">
+<li>The model is a 2 km x 2 km tile using a DEM with 2 m pixels derived from airborne lidar and a vertical exaggeration of 2</li>
 </ul>
+</p>
+<p>
 <a href="https://adrian-g-fisher.github.io/3d_models/pigeon_house/pigeon_house.html">Pigeon House Mountain (Didthul)</a>
-<ul>
-<li>2 km x 2 km tile</li>
-<li>1 m resolution lidar DEM</li>
-<li>vertical exaggeration of 2</li>
+<ul style="padding-left:20px">
+<li>The model is a 2 km x 2 km tile using a DEM with 1 m pixels derived from airborne lidar and a vertical exaggeration of 2</li>
 </ul>
+</p>
+</br>
 The models were made using:
 <ul><li><a href="https://www.qgis.org">QGIS</a> and the <a href="https://qgis2threejs.readthedocs.io/en/docs/">Qgis2threejs plugin</a></li>
 <li>DEM data from <a href="https://elevation.fsdf.org.au/">ELVIS</a>
