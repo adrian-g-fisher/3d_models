@@ -1,5 +1,4 @@
-<b>3D Models</b>
-<hr>
+<h1>3D Models</h1>
 <p>
 <a href="https://adrian-g-fisher.github.io/3d_models/kosciuszko/kosciuszko.html">Mt Kosciuszko</a>
 <ul style="padding-left:20px">
@@ -18,7 +17,7 @@
 <li>The model is 24 km x 27 km. It uses a DEM with 5 m pixels derived from airborne imagery and has a vertical exaggeration of 10.</li>
 </ul>
 </p>
-<hr>
+<h1></h1>
 <p>
 The models were made using:
 <ul><li><a href="https://www.qgis.org">QGIS</a> and the <a href="https://qgis2threejs.readthedocs.io/en/docs/">Qgis2threejs plugin</a></li>
