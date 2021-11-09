@@ -16,7 +16,7 @@ body {
         clear: both;
 }
 #title {
-        float:centre;
+        float:left;
         height:70px;
         width:500px;
         margin-top:10px;
