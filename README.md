@@ -1,6 +1,3 @@
-<head>
-<title>3D Models of NSW</title>
-</head>
 <h1></h1>
 <p>
 The following 3D models were created to show different landscapes across New South Wales (NSW), Australia, using freely available data and software.
