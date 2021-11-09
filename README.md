@@ -1,5 +1,8 @@
 <h1></h1>
 <p>
+The following 3D models were created to show different landscapes across New South Wales, Australia, using freely available data and software.
+</p>
+<p>
 <a href="https://adrian-g-fisher.github.io/3d_models/kosciuszko/kosciuszko.html">Mt Kosciuszko</a>
 <ul style="padding-left:20px">
 <li>The model is a 2 km x 2 km tile using a DEM with 2 m pixels derived from airborne lidar. It has a vertical exaggeration of 2.</li>
