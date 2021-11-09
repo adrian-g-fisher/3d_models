@@ -24,8 +24,8 @@ The following 3D models were created to show different landscapes across New Sou
 <p>
 The models were made using:
 <ul><li><a href="https://www.qgis.org">QGIS</a> and the <a href="https://qgis2threejs.readthedocs.io/en/docs/">Qgis2threejs plugin</a></li>
-<li>DEM data from <a href="https://elevation.fsdf.org.au/">ELVIS</a>
-and airborne imagery from <a href="https://www.spatial.nsw.gov.au/products_and_services/web_services/qgis">NSW Spatial Services</a></li></ul>
+<li>DEM data from <a href="https://elevation.fsdf.org.au/">ELVIS</a></li>
+<li>Airborne imagery from <a href="https://www.spatial.nsw.gov.au/products_and_services/web_services/qgis">NSW Spatial Services</a></li></ul>
 </p>
 <h1></h1>
 <p>
