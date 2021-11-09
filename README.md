@@ -6,4 +6,4 @@ and airborne imagery from <a href="https://www.spatial.nsw.gov.au/products_and_s
 
 Models:
 <ul><li><a href="https://adrian-g-fisher.github.io/3d_models/kosciuszko/kosciuszko.html">Mt Kosciuszko</a></li>
-</ul>
+<li>    <a href="https://adrian-g-fisher.github.io/3d_models/pidgeon_house/pidgeon_house.html">Pidgeon House Mountain (Didthul)</a></li></ul>
