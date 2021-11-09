@@ -55,24 +55,11 @@ body {
         font-size:0.9em;
 		padding-bottom:10px;
 }
-#content a:link {color:blue;text-decoration:none;font-size:1em;}
-#content a:visited {color:blue;text-decoration:none;font-size:1em;}
-#content a:hover {color:blue;text-decoration:underline;font-size:1em;}
-#content a:active {color:blue;text-decoration:none;font-size:1em;}
-#codeblock {
-		border:1px dashed rgb(180,180,180);
-		padding-top:0px;
-		padding-bottom:0px;
-		padding-left:10px;
-		padding-right:10px;
-	    background-color:rgb(240,248,248);
-}
 #footer {
         clear:both;
         height:40px;
         margin:0px;
-		border:0px solid #bbb;
-		border-top:2px solid #C0C0C0;
+		border:0px;
 		padding:0px;
 		text-align:center;
 }
