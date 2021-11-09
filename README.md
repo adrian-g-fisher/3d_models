@@ -1,6 +1,9 @@
+<head>
+<title>3D Models of NSW</title>
+</head>
 <h1></h1>
 <p>
-The following 3D models were created to show different landscapes across New South Wales, Australia, using freely available data and software.
+The following 3D models were created to show different landscapes across New South Wales (NSW), Australia, using freely available data and software.
 </p>
 <p>
 <a href="https://adrian-g-fisher.github.io/3d_models/kosciuszko/kosciuszko.html">Mt Kosciuszko</a>
