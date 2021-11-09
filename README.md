@@ -24,3 +24,7 @@ The models were made using:
 <li>DEM data from <a href="https://elevation.fsdf.org.au/">ELVIS</a>
 and airborne imagery from <a href="https://www.spatial.nsw.gov.au/products_and_services/web_services/qgis">NSW Spatial Services</a></li></ul>
 </p>
+<h1></h1>
+<p>
+Contact <a href="https://www.bees.unsw.edu.au/our-people/adrian-fisher">Adrian Fisher</a>
+</p>
