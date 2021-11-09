@@ -28,6 +28,6 @@ The models were made using:
 </p>
 <hr>
 <p>
-Contact <a href="https://www.bees.unsw.edu.au/our-people/adrian-fisher">Adrian Fisher</a>
+The models and this website were created by <a href="https://www.bees.unsw.edu.au/our-people/adrian-fisher">Adrian Fisher</a>.
 </p>
 <hr>
