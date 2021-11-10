@@ -1,5 +1,10 @@
 <p>
-The following 3D models were created to show different landscapes across New South Wales (NSW), Australia, using freely available data and software. On steep slopes and cliffs the imagery may be distorted. The size and vertical exaggeration of each model varies.
+The following 3D models were created to show different landscapes across New South Wales (NSW), Australia, using freely available data and software. On steep slopes and cliffs the imagery may be distorted. The size and vertical exaggeration of each model varies. Use these controls to zoom, rotate and pan the models:</p>
+<ul style="padding-left:20px">
+<li>The scrolling middle button zooms in and out of the model.</li>
+<li>If you hold your left mouse button you rotate the model.</li>
+<li>If you hold your right mouse button you pan the model.</li>
+</ul>
 </p>
 <p>
 <a href="https://adrian-g-fisher.github.io/3d_models/kosciuszko/kosciuszko.html">Mt Kosciuszko</a>
@@ -16,7 +21,7 @@ The following 3D models were created to show different landscapes across New Sou
 <p>
 <a href="https://adrian-g-fisher.github.io/3d_models/fowlers_gap/fowlers_gap.html">Fowlers Gap (UNSW Arid Zone Research Station)</a>
 <ul style="padding-left:20px">
-<li>The model is 24 km x 27 km. It uses a DEM with 5 m pixels derived from airborne imagery and has a vertical exaggeration of 10.</li>
+<li>The model is 24 km x 27 km. It uses a DEM with 5 m pixels derived from airborne imagery and has a vertical exaggeration of 6.</li>
 </ul>
 </p>
 <p>
