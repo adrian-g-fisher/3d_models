@@ -16,7 +16,7 @@ The following 3D models were created to show different landscapes across New Sou
 <p>
 <a href="https://adrian-g-fisher.github.io/3d_models/fowlers_gap/fowlers_gap.html">Fowlers Gap (UNSW Arid Zone Research Station)</a>
 <ul style="padding-left:20px">
-<li>The model is 24 km x 27 km. It uses a DEM with 5 m pixels derived from airborne imagery and has a vertical exaggeration of 10.</li>
+<li>The model is 24 km x 27 km. It uses a DEM with 5 m pixels derived from airborne imagery and has a vertical exaggeration of 6.</li>
 </ul>
 </p>
 <p>
