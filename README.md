@@ -19,12 +19,18 @@ The following 3D models were created to show different landscapes across New Sou
 <li>The model is 24 km x 27 km. It uses a DEM with 5 m pixels derived from airborne imagery and has a vertical exaggeration of 10.</li>
 </ul>
 </p>
+<p>
+<a href="https://adrian-g-fisher.github.io/3d_models/smiths_lake/smiths_lake.html">Smiths Lake (UNSW Field Station)</a>
+<ul style="padding-left:20px">
+<li>The model is 8 km x 8 km (16 tiles) using a DEM with 1 m pixels derived from airborne lidar. It has a vertical exaggeration of 2.</li>
+</ul>
+</p>
 <hr>
 <p>
 The models were made using:
 </p>
 <p>
-<ul><li><a href="https://www.qgis.org">QGIS</a> and the <a href="https://qgis2threejs.readthedocs.io/en/docs/">Qgis2threejs plugin</a>.</li>
+<ul style="padding-left:20px"><li><a href="https://www.qgis.org">QGIS</a> and the <a href="https://qgis2threejs.readthedocs.io/en/docs/">Qgis2threejs plugin</a>.</li>
 <li>Digital Elevation Model (DEM) data from the <a href="https://www.spatial.nsw.gov.au/">NSW Spatial Services</a>, accessed through <a href="https://elevation.fsdf.org.au/">ELVIS</a>.</li>
 <li>Airborne imagery from <a href="https://www.spatial.nsw.gov.au/">NSW Spatial Services</a>, accessed through their <a href="https://www.spatial.nsw.gov.au/products_and_services/web_services/qgis">Web Mapping Service</a>.</li></ul>
 </p>
