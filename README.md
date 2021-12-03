@@ -31,14 +31,18 @@
 <li>The model is 8 km x 8 km (16 tiles) using a DEM with 1 m pixels derived from airborne lidar. It has a vertical exaggeration of 2.</li>
 </ul>
 </p>
-
 <p>
 <a href="https://adrian-g-fisher.github.io/3d_models/big_ben_dune_true_colour/big_ben_dune_true_colour.html">Big Ben dune (true colour)</a>
 <ul style="padding-left:20px">
 <li>The model is 500 m x 250 m using a DSM with 3 cm pixels derived from overlapping drone images. It has a vertical exaggeration of 2.</li>
 </ul>
 </p>
-
+<p>
+<a href="https://adrian-g-fisher.github.io/3d_models/big_ben_dune_false_colour/big_ben_dune_false_colour.html">Big Ben dune (false colour)</a>
+<ul style="padding-left:20px">
+<li>The same as the true colour model above, except using false colour infrared imagery.</li>
+</ul>
+</p>
 <hr>
 <p>
 The models were made using:
