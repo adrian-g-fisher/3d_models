@@ -22,13 +22,13 @@ app.loadJSONObject({
   "layers": [
     {
       "type": "layer",
-      "id": 3,
+      "id": 0,
       "properties": {
         "name": "RNP021",
         "queryable": 1,
         "visible": true,
         "type": "pc",
-        "url": "https://github.com/adrian-g-fisher/3d_models/blob/main/rnp021/RNP021/ept.json",
+        "url": "file:///https://adrian-g-fisher.github.io/3d_models/rnp021/RNP021/ept.json",
         "opacity": 1.0,
         "colorType": "CLASSIFICATION",
         "boxVisible": false
@@ -36,7 +36,7 @@ app.loadJSONObject({
     },
     {
       "type": "layer",
-      "id": 1,
+      "id": 2,
       "properties": {
         "name": "RNP_0_2013_56_rnp021_dem",
         "queryable": 1,
@@ -47,7 +47,7 @@ app.loadJSONObject({
       "data": [
         {
           "type": "block",
-          "layer": 1,
+          "layer": 2,
           "block": 0,
           "width": 100.0,
           "height": 57.09698137443802,
