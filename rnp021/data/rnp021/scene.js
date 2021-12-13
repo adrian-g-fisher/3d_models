@@ -28,7 +28,7 @@ app.loadJSONObject({
         "queryable": 1,
         "visible": true,
         "type": "pc",
-        "url": "file:https://github.com/adrian-g-fisher/3d_models/blob/main/rnp021/RNP021/ept.json",
+        "url": "https://github.com/adrian-g-fisher/3d_models/blob/main/rnp021/RNP021/ept.json",
         "opacity": 1.0,
         "colorType": "CLASSIFICATION",
         "boxVisible": false
