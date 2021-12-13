@@ -1,0 +1,321 @@
+{
+  "bounds": [
+    319858.10000000003,
+    6216468.17,
+    184.18,
+    319957.88,
+    6216567.9,
+    212.29
+  ],
+  "metadata": {
+    "readers.las": {
+      "comp_spatialreference": "PROJCS[\"UTM Zone 56, Southern Hemishpere\",GEOGCS[\"GDA94\",DATUM[\"GDA94\",SPHEROID[\"GRS 1980\",6378137,298.257222101]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",153],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",10000000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+      "compressed": false,
+      "count": 20311,
+      "creation_doy": 69,
+      "creation_year": 2018,
+      "dataformat_id": 3,
+      "dataoffset": 1153,
+      "filesource_id": 0,
+      "global_encoding": 0,
+      "global_encoding_base64": "AAA=",
+      "gtiff": "Geotiff_Information:\n   Version: 1\n   Key_Revision: 1.0\n   Tagged_Information:\n      End_Of_Tags.\n   Keyed_Information:\n      GTModelTypeGeoKey (Short,1): ModelTypeProjected\n      GTRasterTypeGeoKey (Short,1): RasterPixelIsArea\n      GTCitationGeoKey (Ascii,33): \"UTM Zone 56, Southern Hemishpere\"\n      GeographicTypeGeoKey (Short,1): User-Defined\n      GeogCitationGeoKey (Ascii,72): \"GCS Name = GDA94|Datum = GDA94|Ellipsoid = GRS 1980|Primem = Greenwich|\"\n      GeogGeodeticDatumGeoKey (Short,1): User-Defined\n      GeogAngularUnitsGeoKey (Short,1): Angular_Degree\n      GeogEllipsoidGeoKey (Short,1): User-Defined\n      GeogSemiMajorAxisGeoKey (Double,1): 6378137          \n      GeogInvFlatteningGeoKey (Double,1): 298.257222101    \n      GeogPrimeMeridianLongGeoKey (Double,1): 0                \n      GeogTOWGS84GeoKey (Double,3): 0                0                0                \n      ProjectedCSTypeGeoKey (Short,1): User-Defined\n      ProjectionGeoKey (Short,1): Proj_UTM_zone_56S\n      ProjLinearUnitsGeoKey (Short,1): Linear_Meter\n      End_Of_Keys.\n   End_Of_Geotiff.\n",
+      "header_size": 227,
+      "major_version": 1,
+      "maxx": 319957.88,
+      "maxy": 6216567.9,
+      "maxz": 212.29,
+      "minor_version": 2,
+      "minx": 319858.1,
+      "miny": 6216468.17,
+      "minz": 184.18,
+      "offset_x": 0,
+      "offset_y": 0,
+      "offset_z": 0,
+      "point_length": 34,
+      "project_id": "00000000-0000-0000-0000-000000000000",
+      "scale_x": 0.01,
+      "scale_y": 0.01,
+      "scale_z": 0.01,
+      "software_id": "las2las (version 171231)",
+      "spatialreference": "PROJCS[\"UTM Zone 56, Southern Hemishpere\",GEOGCS[\"GDA94\",DATUM[\"GDA94\",SPHEROID[\"GRS 1980\",6378137,298.257222101]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",153],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",10000000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+      "srs": {
+        "compoundwkt": "PROJCS[\"UTM Zone 56, Southern Hemishpere\",GEOGCS[\"GDA94\",DATUM[\"GDA94\",SPHEROID[\"GRS 1980\",6378137,298.257222101]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",153],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",10000000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "horizontal": "PROJCS[\"UTM Zone 56, Southern Hemishpere\",GEOGCS[\"GDA94\",DATUM[\"GDA94\",SPHEROID[\"GRS 1980\",6378137,298.257222101]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",153],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",10000000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "isgeocentric": false,
+        "isgeographic": false,
+        "prettycompoundwkt": "PROJCS[\"UTM Zone 56, Southern Hemishpere\",\n    GEOGCS[\"GDA94\",\n        DATUM[\"GDA94\",\n            SPHEROID[\"GRS 1980\",6378137,298.257222101]],\n        PRIMEM[\"Greenwich\",0],\n        UNIT[\"degree\",0.0174532925199433,\n            AUTHORITY[\"EPSG\",\"9122\"]]],\n    PROJECTION[\"Transverse_Mercator\"],\n    PARAMETER[\"latitude_of_origin\",0],\n    PARAMETER[\"central_meridian\",153],\n    PARAMETER[\"scale_factor\",0.9996],\n    PARAMETER[\"false_easting\",500000],\n    PARAMETER[\"false_northing\",10000000],\n    UNIT[\"metre\",1,\n        AUTHORITY[\"EPSG\",\"9001\"]],\n    AXIS[\"Easting\",EAST],\n    AXIS[\"Northing\",NORTH]]",
+        "prettywkt": "PROJCS[\"UTM Zone 56, Southern Hemishpere\",\n    GEOGCS[\"GDA94\",\n        DATUM[\"GDA94\",\n            SPHEROID[\"GRS 1980\",6378137,298.257222101]],\n        PRIMEM[\"Greenwich\",0],\n        UNIT[\"degree\",0.0174532925199433,\n            AUTHORITY[\"EPSG\",\"9122\"]]],\n    PROJECTION[\"Transverse_Mercator\"],\n    PARAMETER[\"latitude_of_origin\",0],\n    PARAMETER[\"central_meridian\",153],\n    PARAMETER[\"scale_factor\",0.9996],\n    PARAMETER[\"false_easting\",500000],\n    PARAMETER[\"false_northing\",10000000],\n    UNIT[\"metre\",1,\n        AUTHORITY[\"EPSG\",\"9001\"]],\n    AXIS[\"Easting\",EAST],\n    AXIS[\"Northing\",NORTH]]",
+        "proj4": "+proj=utm +zone=56 +south +ellps=GRS80 +units=m +no_defs",
+        "units": {
+          "horizontal": "metre",
+          "vertical": ""
+        },
+        "vertical": "",
+        "wkt": "PROJCS[\"UTM Zone 56, Southern Hemishpere\",GEOGCS[\"GDA94\",DATUM[\"GDA94\",SPHEROID[\"GRS 1980\",6378137,298.257222101]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",153],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",10000000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]"
+      },
+      "system_id": "LAStools (c) by rapidlasso GmbH",
+      "vlr_0": {
+        "data": "AQABAAAADwAABAAAAQABAAEEAAABAAEAAgSxhyEAAAAACAAAAQD/fwEIsYdIACEAAggAAAEA/38GCAAAAQCOIwgIAAABAP9/CQiwhwEAAAALCLCHAQABAA0IsIcBAAIADgiwhwMAAwAADAAAAQD/fwIMAAABABw/BAwAAAEAKSMAAAAAAAAAAA==",
+        "description": "GeoTIFF GeoKeyDirectoryTag",
+        "record_id": 34735,
+        "user_id": "LASF_Projection"
+      },
+      "vlr_1": {
+        "data": "AAAAQKZUWEGo+euUHaRyQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "description": "GeoTIFF GeoDoubleParamsTag",
+        "record_id": 34736,
+        "user_id": "LASF_Projection"
+      },
+      "vlr_2": {
+        "data": "VVRNIFpvbmUgNTYsIFNvdXRoZXJuIEhlbWlzaHBlcmV8R0NTIE5hbWUgPSBHREE5NHxEYXR1bSA9IEdEQTk0fEVsbGlwc29pZCA9IEdSUyAxOTgwfFByaW1lbSA9IEdyZWVud2ljaHx8AA==",
+        "description": "GeoTIFF GeoAsciiParamsTag",
+        "record_id": 34737,
+        "user_id": "LASF_Projection"
+      },
+      "vlr_3": {
+        "data": "UFJPSkNTWyJVVE0gWm9uZSA1NiwgU291dGhlcm4gSGVtaXNocGVyZSIsR0VPR0NTWyJHREE5NCIsREFUVU1bIkdEQTk0IixTUEhFUk9JRFsiR1JTIDE5ODAiLDYzNzgxMzcsMjk4LjI1NzIyMjEwMV0sVE9XR1M4NFswLDAsMCwwLDAsMCwwXV0sUFJJTUVNWyJHcmVlbndpY2giLDBdLFVOSVRbImRlZ3JlZSIsMC4wMTc0NTMyOTI1MTk5NDMyOF1dLFBST0pFQ1RJT05bIlRyYW5zdmVyc2VfTWVyY2F0b3IiXSxQQVJBTUVURVJbImxhdGl0dWRlX29mX29yaWdpbiIsMF0sUEFSQU1FVEVSWyJjZW50cmFsX21lcmlkaWFuIiwxNTNdLFBBUkFNRVRFUlsic2NhbGVfZmFjdG9yIiwwLjk5OTZdLFBBUkFNRVRFUlsiZmFsc2VfZWFzdGluZyIsNTAwMDAwXSxQQVJBTUVURVJbImZhbHNlX25vcnRoaW5nIiwxMDAwMDAwMF0sVU5JVFsibWV0ZXJzIiwxXV0A",
+        "description": "OGR variant of OpenGIS WKT SRS",
+        "record_id": 2112,
+        "user_id": "liblas"
+      },
+      "vlr_4": {
+        "data": "AQABAAAADwAABAAAAQABAAEEAAABAAEAAgSxhyEAAAAACAAAAQD/fwEIsYdIACEAAggAAAEA/38GCAAAAQCOIwgIAAABAP9/CQiwhwEAAAALCLCHAQABAA0IsIcBAAIADgiwhwMAAwAADAAAAQD/fwIMAAABABw/BAwAAAEAKSMAAAAAAAAAAA==",
+        "description": "GeoTIFF GeoKeyDirectoryTag",
+        "record_id": 34735,
+        "user_id": "LASF_Projection"
+      },
+      "vlr_5": {
+        "data": "AAAAQKZUWEGo+euUHaRyQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "description": "GeoTIFF GeoDoubleParamsTag",
+        "record_id": 34736,
+        "user_id": "LASF_Projection"
+      },
+      "vlr_6": {
+        "data": "VVRNIFpvbmUgNTYsIFNvdXRoZXJuIEhlbWlzaHBlcmV8R0NTIE5hbWUgPSBHREE5NHxEYXR1bSA9IEdEQTk0fEVsbGlwc29pZCA9IEdSUyAxOTgwfFByaW1lbSA9IEdyZWVud2ljaHx8AA==",
+        "description": "GeoTIFF GeoAsciiParamsTag",
+        "record_id": 34737,
+        "user_id": "LASF_Projection"
+      },
+      "vlr_7": {
+        "data": "UFJPSkNTWyJVVE0gWm9uZSA1NiwgU291dGhlcm4gSGVtaXNocGVyZSIsR0VPR0NTWyJHREE5NCIsREFUVU1bIkdEQTk0IixTUEhFUk9JRFsiR1JTIDE5ODAiLDYzNzgxMzcsMjk4LjI1NzIyMjEwMV0sVE9XR1M4NFswLDAsMCwwLDAsMCwwXV0sUFJJTUVNWyJHcmVlbndpY2giLDBdLFVOSVRbImRlZ3JlZSIsMC4wMTc0NTMyOTI1MTk5NDMyOF1dLFBST0pFQ1RJT05bIlRyYW5zdmVyc2VfTWVyY2F0b3IiXSxQQVJBTUVURVJbImxhdGl0dWRlX29mX29yaWdpbiIsMF0sUEFSQU1FVEVSWyJjZW50cmFsX21lcmlkaWFuIiwxNTNdLFBBUkFNRVRFUlsic2NhbGVfZmFjdG9yIiwwLjk5OTZdLFBBUkFNRVRFUlsiZmFsc2VfZWFzdGluZyIsNTAwMDAwXSxQQVJBTUVURVJbImZhbHNlX25vcnRoaW5nIiwxMDAwMDAwMF0sVU5JVFsibWV0ZXJzIiwxXV0A",
+        "description": "OGR variant of OpenGIS WKT SRS",
+        "record_id": 2112,
+        "user_id": "liblas"
+      }
+    }
+  },
+  "path": "RNP_0_2013_56_rnp021_circle.las",
+  "pipeline": [
+    {
+      "filename": "RNP_0_2013_56_rnp021_circle.las"
+    }
+  ],
+  "points": 20311,
+  "schema": [
+    {
+      "count": 20311,
+      "maximum": 319957.88,
+      "mean": 319907.5252365703,
+      "minimum": 319858.10000000003,
+      "name": "X",
+      "scale": 0.01,
+      "size": 4,
+      "stddev": 24.913762338517223,
+      "type": "signed",
+      "variance": 620.6955538601192
+    },
+    {
+      "count": 20311,
+      "maximum": 6216567.9,
+      "mean": 6216518.095434491,
+      "minimum": 6216468.17,
+      "name": "Y",
+      "scale": 0.01,
+      "size": 4,
+      "stddev": 25.313158014044713,
+      "type": "signed",
+      "variance": 640.7559686439961
+    },
+    {
+      "count": 20311,
+      "maximum": 212.29,
+      "mean": 197.76319728226073,
+      "minimum": 184.18,
+      "name": "Z",
+      "scale": 0.01,
+      "size": 4,
+      "stddev": 6.571149765807172,
+      "type": "signed",
+      "variance": 43.180009244667644
+    },
+    {
+      "count": 20311,
+      "maximum": 255,
+      "mean": 41.075771749298326,
+      "minimum": 0,
+      "name": "Intensity",
+      "size": 2,
+      "stddev": 46.959192830680415,
+      "type": "unsigned",
+      "variance": 2205.1657913090266
+    },
+    {
+      "count": 20311,
+      "maximum": 4,
+      "mean": 1.6168578602727537,
+      "minimum": 1,
+      "name": "ReturnNumber",
+      "size": 1,
+      "stddev": 0.6842074387515098,
+      "type": "unsigned",
+      "variance": 0.46813981924290105
+    },
+    {
+      "count": 20311,
+      "maximum": 4,
+      "mean": 2.2374575353256745,
+      "minimum": 1,
+      "name": "NumberOfReturns",
+      "size": 1,
+      "stddev": 0.6360009309291862,
+      "type": "unsigned",
+      "variance": 0.4044971841427914
+    },
+    {
+      "count": 20311,
+      "maximum": 0,
+      "mean": 0,
+      "minimum": 0,
+      "name": "ScanDirectionFlag",
+      "size": 1,
+      "stddev": 0,
+      "type": "unsigned",
+      "variance": 0
+    },
+    {
+      "count": 20311,
+      "maximum": 0,
+      "mean": 0,
+      "minimum": 0,
+      "name": "EdgeOfFlightLine",
+      "size": 1,
+      "stddev": 0,
+      "type": "unsigned",
+      "variance": 0
+    },
+    {
+      "count": 20311,
+      "counts": [
+        {
+          "count": 47,
+          "value": 1
+        },
+        {
+          "count": 6123,
+          "value": 2
+        },
+        {
+          "count": 19,
+          "value": 3
+        },
+        {
+          "count": 541,
+          "value": 4
+        },
+        {
+          "count": 13581,
+          "value": 5
+        }
+      ],
+      "maximum": 5,
+      "mean": 4.057850425877628,
+      "minimum": 1,
+      "name": "Classification",
+      "size": 1,
+      "stddev": 1.3758329974550458,
+      "type": "unsigned",
+      "variance": 1.892916436886136
+    },
+    {
+      "count": 20311,
+      "maximum": 77,
+      "mean": 5.077101078233465,
+      "minimum": -4,
+      "name": "ScanAngleRank",
+      "size": 4,
+      "stddev": 23.22415538441513,
+      "type": "float",
+      "variance": 539.3613933194582
+    },
+    {
+      "count": 20311,
+      "maximum": 0,
+      "mean": 0,
+      "minimum": 0,
+      "name": "UserData",
+      "size": 1,
+      "stddev": 0,
+      "type": "unsigned",
+      "variance": 0
+    },
+    {
+      "count": 20311,
+      "maximum": 39,
+      "mean": 39,
+      "minimum": 39,
+      "name": "PointSourceId",
+      "size": 2,
+      "stddev": 0,
+      "type": "unsigned",
+      "variance": 0
+    },
+    {
+      "count": 20311,
+      "maximum": 50688419.23311412,
+      "mean": 50688418.51755953,
+      "minimum": 50688417.78748262,
+      "name": "GpsTime",
+      "size": 8,
+      "stddev": 0.3596864068376096,
+      "type": "float",
+      "variance": 0.12937431126375043
+    },
+    {
+      "count": 20311,
+      "maximum": 0,
+      "mean": 0,
+      "minimum": 0,
+      "name": "Red",
+      "size": 2,
+      "stddev": 0,
+      "type": "unsigned",
+      "variance": 0
+    },
+    {
+      "count": 20311,
+      "maximum": 0,
+      "mean": 0,
+      "minimum": 0,
+      "name": "Green",
+      "size": 2,
+      "stddev": 0,
+      "type": "unsigned",
+      "variance": 0
+    },
+    {
+      "count": 20311,
+      "maximum": 0,
+      "mean": 0,
+      "minimum": 0,
+      "name": "Blue",
+      "size": 2,
+      "stddev": 0,
+      "type": "unsigned",
+      "variance": 0
+    }
+  ],
+  "srs": {
+    "wkt": "PROJCS[\"UTM Zone 56, Southern Hemishpere\",GEOGCS[\"GDA94\",DATUM[\"GDA94\",SPHEROID[\"GRS 1980\",6378137,298.257222101]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",153],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",10000000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]"
+  }
+}
