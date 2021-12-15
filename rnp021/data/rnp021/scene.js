@@ -28,7 +28,7 @@ app.loadJSONObject({
         "queryable": 1,
         "visible": true,
         "type": "pc",
-        "url": "file:///./../../RNP021/ept.json"
+        "url": "file:///C:/Users/Adrian/Documents/entwine_test/RNP021/ept.json"
         "opacity": 1.0,
         "colorType": "CLASSIFICATION",
         "boxVisible": false
