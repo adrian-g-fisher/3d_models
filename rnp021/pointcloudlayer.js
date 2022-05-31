@@ -1,10 +1,11 @@
+// (C) 2020 Minoru Akagi
+// SPDX-License-Identifier: MIT
+
 "use strict";
-// pointcloudlayer.js
-// (C) 2020 Minoru Akagi | MIT License
-// https://github.com/minorua/Qgis2threejs
 
 (function () {
-  Potree.Global.workerPath = Q3D.Config.potreeBasePath || Potree.Global.workerPath;
+  if (Q3D.Config.potree.basePath !== undefined) Potree.Global.workerPath = Q3D.Config.potree.basePath;
+  if (Q3D.Config.potree.maxNodesLoading !== undefined) Potree.Global.maxNodesLoading = Q3D.Config.potree.maxNodesLoading;
 
   class Q3DGRP extends Potree.Group
   {
@@ -32,7 +33,7 @@
         _this.timerId = window.setTimeout(function () {
           _this.timerId = null;
           _this.layer.requestRender();
-        }, 100);
+        }, 10);
       }
     }
   }
@@ -75,6 +76,16 @@ Q3D.PointCloudLayer = function () {
 Q3D.PointCloudLayer.prototype = Object.create(Q3D.MapLayer.prototype);
 Q3D.PointCloudLayer.prototype.constructor = Q3D.PointCloudLayer;
 
+Q3D.PointCloudLayer.prototype.visibleObjects = function () {
+  if (!this.visible) return [];
+
+  var o = [];
+  this.objectGroup.traverseVisible(function (obj) {
+    o.push(obj);
+  });
+  return o;
+};
+
 Q3D.PointCloudLayer.prototype.loadJSONObject = function (jsonObject, scene) {
 
   var p = jsonObject.properties;
@@ -82,7 +93,6 @@ Q3D.PointCloudLayer.prototype.loadJSONObject = function (jsonObject, scene) {
 
   Q3D.MapLayer.prototype.loadJSONObject.call(this, jsonObject, scene);
 
-  // if (jsonObject.type == "layer")
   if (this.pcg !== undefined) {
     if (!need_reload) {
       this.updatePosition(scene);
@@ -129,8 +139,7 @@ Q3D.PointCloudLayer.prototype.loadJSONObject = function (jsonObject, scene) {
     if (p.color !== undefined) mtl.color = new THREE.Color(p.color);
 
     if (p.colorType == "HEIGHT") {
-      var box = new THREE.Box3();
-      box.copy(_this.pc.pcoGeometry.tightBoundingBox || _this.pc.pcoGeometry.boundingBox).applyMatrix4(_this.pc.matrixWorld);
+      var box = _this.boundingBox();
       mtl.elevationRange = [box.min.z, box.max.z];
     }
     _this.materials.add(mtl);
@@ -139,14 +148,16 @@ Q3D.PointCloudLayer.prototype.loadJSONObject = function (jsonObject, scene) {
   });
 };
 
-Q3D.PointCloudLayer.prototype.updatePosition = function (scene) {
-  var p = scene.toWorldCoordinates(0, 0, 0),
-      d = scene.userData,
-      g = this.objectGroup;
+Q3D.PointCloudLayer.prototype.boundingBox = function () {
+  return this.pcg.getBoundingBox();
+};
 
-  g.position.set(p.x, p.y, p.z);
-  g.rotation.z = -d.rotation * Math.PI / 180;
-  g.scale.set(d.scale, d.scale, d.zScale);
+Q3D.PointCloudLayer.prototype.updatePosition = function (scene) {
+  var g = this.objectGroup,
+      p = scene.userData;
+
+  g.position.copy(scene.toWorldCoordinates({x: 0, y: 0, z: 0}));
+  g.scale.z = p.zScale;
   g.updateMatrixWorld();
 };
 
@@ -168,7 +179,7 @@ Q3D.PointCloudLayer.prototype.requestRepeatRender = function (interval, repeat, 
   };
 
   if (tick_func()) timer_id = window.setInterval(tick_func, interval);
-}
+};
 
 Object.defineProperty(Q3D.PointCloudLayer.prototype, "visible", {
   get: function () {
