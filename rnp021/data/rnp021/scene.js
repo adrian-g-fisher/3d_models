@@ -66437,7 +66437,7 @@ app.loadJSONObject({
         "clickable": true,
         "visible": true,
         "type": "pc",
-        "url": "../../RNP021/ept.json",
+        "url": "file:///../../RNP021/ept.json",
         "opacity": 1.0,
         "colorType": "CLASSIFICATION",
         "boxVisible": false
