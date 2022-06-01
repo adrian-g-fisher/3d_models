@@ -66437,7 +66437,7 @@ app.loadJSONObject({
         "clickable": true,
         "visible": true,
         "type": "pc",
-        "url": "../../RNP021/ept.json",
+        "url": "https://adrian-g-fisher.github.io/3d_models/rnp021/RNP021/ept.json",
         "opacity": 1.0,
         "colorType": "CLASSIFICATION",
         "boxVisible": false
