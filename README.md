@@ -44,9 +44,9 @@
 </ul>
 </p>
 <p>
-<a href="https://adrian-g-fisher.github.io/3d_models/rnp021/rnp021.html">Royal National Park</a>
+<a href="https://adrian-g-fisher.github.io/3d_models/rnp021/rnp021.html">Royal National Park (site RNP021)</a>
 <ul style="padding-left:20px">
-<li>Airborne lidar for a 100 m diameter star transect.</li>
+<li>Airborne lidar point cloud for a 100 m diameter star transect, coloured by classification (brown=ground, green=vegetation).</li>
 </ul>
 </p>
 <hr>
