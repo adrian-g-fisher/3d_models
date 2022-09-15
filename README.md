@@ -49,6 +49,14 @@
 <li>Airborne lidar point cloud for a 100 m diameter star transect, coloured by classification (brown=ground, green=vegetation), over a 1 m resolution DEM displayed with grey shading. Field measured foliage projective cover (FPC) was 87%.</li>
 </ul>
 </p>
+
+<p>
+<a href="https://adrian-g-fisher.github.io/3d_models/sandstone_ridge/sandstone_ridge.html">Sandstone Ridge (Centennial Park)</a>
+<ul style="padding-left:20px">
+<li>Airborne lidar point cloud for a 200 m square, coloured by classification (brown=ground, green=vegetation), over a 1 m resolution DEM displayed with grey shading. The trees in this area are Eucalyptus Grandis.</li>
+</ul>
+</p>
+
 <hr>
 <p>
 Most of the models were made using:
