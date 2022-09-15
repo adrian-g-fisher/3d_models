@@ -1,0 +1,297 @@
+{
+  "bounds": [
+    336870.0,
+    6248260.001,
+    51.423,
+    337070.0,
+    6248459.999,
+    105.215
+  ],
+  "metadata": {
+    "readers.las": {
+      "comp_spatialreference": "PROJCRS[\"GDA94 / MGA zone 56\",BASEGEOGCRS[\"GDA94\",DATUM[\"Geocentric Datum of Australia 1994\",ELLIPSOID[\"GRS 1980\",6378137,298.257222101,LENGTHUNIT[\"metre\",1]]],PRIMEM[\"Greenwich\",0,ANGLEUNIT[\"degree\",0.0174532925199433]],ID[\"EPSG\",4283]],CONVERSION[\"Map Grid of Australia zone 56\",METHOD[\"Transverse Mercator\",ID[\"EPSG\",9807]],PARAMETER[\"Latitude of natural origin\",0,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8801]],PARAMETER[\"Longitude of natural origin\",153,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8802]],PARAMETER[\"Scale factor at natural origin\",0.9996,SCALEUNIT[\"unity\",1],ID[\"EPSG\",8805]],PARAMETER[\"False easting\",500000,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8806]],PARAMETER[\"False northing\",10000000,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8807]]],CS[Cartesian,2],AXIS[\"(E)\",east,ORDER[1],LENGTHUNIT[\"metre\",1]],AXIS[\"(N)\",north,ORDER[2],LENGTHUNIT[\"metre\",1]],USAGE[SCOPE[\"Engineering survey, topographic mapping.\"],AREA[\"Australia - onshore and offshore between 150°E and 156°E.\"],BBOX[-58.96,150,-13.87,156]],ID[\"EPSG\",28356]]",
+      "compressed": true,
+      "count": 407231,
+      "creation_doy": 258,
+      "creation_year": 2022,
+      "dataformat_id": 6,
+      "dataoffset": 1567,
+      "filesource_id": 0,
+      "global_encoding": 16,
+      "global_encoding_base64": "EAA=",
+      "gtiff": "",
+      "header_size": 375,
+      "major_version": 1,
+      "maxx": 337070,
+      "maxy": 6248459.999,
+      "maxz": 105.215,
+      "minor_version": 4,
+      "minx": 336870,
+      "miny": 6248260.001,
+      "minz": 51.423,
+      "offset_x": 0,
+      "offset_y": 6000000,
+      "offset_z": 0,
+      "point_length": 30,
+      "project_id": "00000000-0000-0000-0000-000000000000",
+      "scale_x": 0.001,
+      "scale_y": 0.001,
+      "scale_z": 0.001,
+      "software_id": "LASzip DLL 3.4 r3 (191111)",
+      "spatialreference": "PROJCRS[\"GDA94 / MGA zone 56\",BASEGEOGCRS[\"GDA94\",DATUM[\"Geocentric Datum of Australia 1994\",ELLIPSOID[\"GRS 1980\",6378137,298.257222101,LENGTHUNIT[\"metre\",1]]],PRIMEM[\"Greenwich\",0,ANGLEUNIT[\"degree\",0.0174532925199433]],ID[\"EPSG\",4283]],CONVERSION[\"Map Grid of Australia zone 56\",METHOD[\"Transverse Mercator\",ID[\"EPSG\",9807]],PARAMETER[\"Latitude of natural origin\",0,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8801]],PARAMETER[\"Longitude of natural origin\",153,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8802]],PARAMETER[\"Scale factor at natural origin\",0.9996,SCALEUNIT[\"unity\",1],ID[\"EPSG\",8805]],PARAMETER[\"False easting\",500000,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8806]],PARAMETER[\"False northing\",10000000,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8807]]],CS[Cartesian,2],AXIS[\"(E)\",east,ORDER[1],LENGTHUNIT[\"metre\",1]],AXIS[\"(N)\",north,ORDER[2],LENGTHUNIT[\"metre\",1]],USAGE[SCOPE[\"Engineering survey, topographic mapping.\"],AREA[\"Australia - onshore and offshore between 150°E and 156°E.\"],BBOX[-58.96,150,-13.87,156]],ID[\"EPSG\",28356]]",
+      "srs": {
+        "compoundwkt": "PROJCRS[\"GDA94 / MGA zone 56\",BASEGEOGCRS[\"GDA94\",DATUM[\"Geocentric Datum of Australia 1994\",ELLIPSOID[\"GRS 1980\",6378137,298.257222101,LENGTHUNIT[\"metre\",1]]],PRIMEM[\"Greenwich\",0,ANGLEUNIT[\"degree\",0.0174532925199433]],ID[\"EPSG\",4283]],CONVERSION[\"Map Grid of Australia zone 56\",METHOD[\"Transverse Mercator\",ID[\"EPSG\",9807]],PARAMETER[\"Latitude of natural origin\",0,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8801]],PARAMETER[\"Longitude of natural origin\",153,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8802]],PARAMETER[\"Scale factor at natural origin\",0.9996,SCALEUNIT[\"unity\",1],ID[\"EPSG\",8805]],PARAMETER[\"False easting\",500000,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8806]],PARAMETER[\"False northing\",10000000,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8807]]],CS[Cartesian,2],AXIS[\"(E)\",east,ORDER[1],LENGTHUNIT[\"metre\",1]],AXIS[\"(N)\",north,ORDER[2],LENGTHUNIT[\"metre\",1]],USAGE[SCOPE[\"Engineering survey, topographic mapping.\"],AREA[\"Australia - onshore and offshore between 150°E and 156°E.\"],BBOX[-58.96,150,-13.87,156]],ID[\"EPSG\",28356]]",
+        "horizontal": "PROJCS[\"GDA94 / MGA zone 56\",GEOGCS[\"GDA94\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"GRS 1980\",6378137,298.257222101]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4283\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",153],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",10000000],UNIT[\"metre\",1],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"28356\"]]",
+        "isgeocentric": false,
+        "isgeographic": false,
+        "prettycompoundwkt": "PROJCS[\"GDA94 / MGA zone 56\",\n    GEOGCS[\"GDA94\",\n        DATUM[\"Geocentric_Datum_of_Australia_1994\",\n            SPHEROID[\"GRS 1980\",6378137,298.257222101]],\n        PRIMEM[\"Greenwich\",0],\n        UNIT[\"degree\",0.0174532925199433,\n            AUTHORITY[\"EPSG\",\"9122\"]],\n        AUTHORITY[\"EPSG\",\"4283\"]],\n    PROJECTION[\"Transverse_Mercator\"],\n    PARAMETER[\"latitude_of_origin\",0],\n    PARAMETER[\"central_meridian\",153],\n    PARAMETER[\"scale_factor\",0.9996],\n    PARAMETER[\"false_easting\",500000],\n    PARAMETER[\"false_northing\",10000000],\n    UNIT[\"metre\",1],\n    AXIS[\"Easting\",EAST],\n    AXIS[\"Northing\",NORTH],\n    AUTHORITY[\"EPSG\",\"28356\"]]",
+        "prettywkt": "PROJCS[\"GDA94 / MGA zone 56\",\n    GEOGCS[\"GDA94\",\n        DATUM[\"Geocentric_Datum_of_Australia_1994\",\n            SPHEROID[\"GRS 1980\",6378137,298.257222101],\n            AUTHORITY[\"EPSG\",\"6283\"]],\n        PRIMEM[\"Greenwich\",0],\n        UNIT[\"degree\",0.0174532925199433,\n            AUTHORITY[\"EPSG\",\"9122\"]],\n        AUTHORITY[\"EPSG\",\"4283\"]],\n    PROJECTION[\"Transverse_Mercator\"],\n    PARAMETER[\"latitude_of_origin\",0],\n    PARAMETER[\"central_meridian\",153],\n    PARAMETER[\"scale_factor\",0.9996],\n    PARAMETER[\"false_easting\",500000],\n    PARAMETER[\"false_northing\",10000000],\n    UNIT[\"metre\",1],\n    AXIS[\"Easting\",EAST],\n    AXIS[\"Northing\",NORTH],\n    AUTHORITY[\"EPSG\",\"28356\"]]",
+        "proj4": "+proj=utm +zone=56 +south +ellps=GRS80 +units=m +no_defs",
+        "units": {
+          "horizontal": "metre",
+          "vertical": ""
+        },
+        "vertical": "",
+        "wkt": "PROJCS[\"GDA94 / MGA zone 56\",GEOGCS[\"GDA94\",DATUM[\"Geocentric_Datum_of_Australia_1994\",SPHEROID[\"GRS 1980\",6378137,298.257222101]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4283\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",153],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",10000000],UNIT[\"metre\",1],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"28356\"]]"
+      },
+      "system_id": "OTHER",
+      "vlr_0": {
+        "data": "UFJPSkNSU1siR0RBOTQgLyBNR0Egem9uZSA1NiIsQkFTRUdFT0dDUlNbIkdEQTk0IixEQVRVTVsiR2VvY2VudHJpYyBEYXR1bSBvZiBBdXN0cmFsaWEgMTk5NCIsRUxMSVBTT0lEWyJHUlMgMTk4MCIsNjM3ODEzNywyOTguMjU3MjIyMTAxLExFTkdUSFVOSVRbIm1ldHJlIiwxXV1dLFBSSU1FTVsiR3JlZW53aWNoIiwwLEFOR0xFVU5JVFsiZGVncmVlIiwwLjAxNzQ1MzI5MjUxOTk0MzNdXSxJRFsiRVBTRyIsNDI4M11dLENPTlZFUlNJT05bIk1hcCBHcmlkIG9mIEF1c3RyYWxpYSB6b25lIDU2IixNRVRIT0RbIlRyYW5zdmVyc2UgTWVyY2F0b3IiLElEWyJFUFNHIiw5ODA3XV0sUEFSQU1FVEVSWyJMYXRpdHVkZSBvZiBuYXR1cmFsIG9yaWdpbiIsMCxBTkdMRVVOSVRbImRlZ3JlZSIsMC4wMTc0NTMyOTI1MTk5NDMzXSxJRFsiRVBTRyIsODgwMV1dLFBBUkFNRVRFUlsiTG9uZ2l0dWRlIG9mIG5hdHVyYWwgb3JpZ2luIiwxNTMsQU5HTEVVTklUWyJkZWdyZWUiLDAuMDE3NDUzMjkyNTE5OTQzM10sSURbIkVQU0ciLDg4MDJdXSxQQVJBTUVURVJbIlNjYWxlIGZhY3RvciBhdCBuYXR1cmFsIG9yaWdpbiIsMC45OTk2LFNDQUxFVU5JVFsidW5pdHkiLDFdLElEWyJFUFNHIiw4ODA1XV0sUEFSQU1FVEVSWyJGYWxzZSBlYXN0aW5nIiw1MDAwMDAsTEVOR1RIVU5JVFsibWV0cmUiLDFdLElEWyJFUFNHIiw4ODA2XV0sUEFSQU1FVEVSWyJGYWxzZSBub3J0aGluZyIsMTAwMDAwMDAsTEVOR1RIVU5JVFsibWV0cmUiLDFdLElEWyJFUFNHIiw4ODA3XV1dLENTW0NhcnRlc2lhbiwyXSxBWElTWyIoRSkiLGVhc3QsT1JERVJbMV0sTEVOR1RIVU5JVFsibWV0cmUiLDFdXSxBWElTWyIoTikiLG5vcnRoLE9SREVSWzJdLExFTkdUSFVOSVRbIm1ldHJlIiwxXV0sVVNBR0VbU0NPUEVbIkVuZ2luZWVyaW5nIHN1cnZleSwgdG9wb2dyYXBoaWMgbWFwcGluZy4iXSxBUkVBWyJBdXN0cmFsaWEgLSBvbnNob3JlIGFuZCBvZmZzaG9yZSBiZXR3ZWVuIDE1MMKwRSBhbmQgMTU2wrBFLiJdLEJCT1hbLTU4Ljk2LDE1MCwtMTMuODcsMTU2XV0sSURbIkVQU0ciLDI4MzU2XV0A",
+        "description": "OGC Transformation Record",
+        "record_id": 2112,
+        "user_id": "LASF_Projection"
+      },
+      "vlr_1": {
+        "data": "AwAAAAMEAwAAAAAAUMMAAP////////////////////8BAAoAHgADAA==",
+        "description": "LASzip DLL 3.4 r3 (191111)",
+        "record_id": 22204,
+        "user_id": "laszip encoded"
+      },
+      "vlr_2": {
+        "data": "UFJPSkNSU1siR0RBOTQgLyBNR0Egem9uZSA1NiIsQkFTRUdFT0dDUlNbIkdEQTk0IixEQVRVTVsiR2VvY2VudHJpYyBEYXR1bSBvZiBBdXN0cmFsaWEgMTk5NCIsRUxMSVBTT0lEWyJHUlMgMTk4MCIsNjM3ODEzNywyOTguMjU3MjIyMTAxLExFTkdUSFVOSVRbIm1ldHJlIiwxXV1dLFBSSU1FTVsiR3JlZW53aWNoIiwwLEFOR0xFVU5JVFsiZGVncmVlIiwwLjAxNzQ1MzI5MjUxOTk0MzNdXSxJRFsiRVBTRyIsNDI4M11dLENPTlZFUlNJT05bIk1hcCBHcmlkIG9mIEF1c3RyYWxpYSB6b25lIDU2IixNRVRIT0RbIlRyYW5zdmVyc2UgTWVyY2F0b3IiLElEWyJFUFNHIiw5ODA3XV0sUEFSQU1FVEVSWyJMYXRpdHVkZSBvZiBuYXR1cmFsIG9yaWdpbiIsMCxBTkdMRVVOSVRbImRlZ3JlZSIsMC4wMTc0NTMyOTI1MTk5NDMzXSxJRFsiRVBTRyIsODgwMV1dLFBBUkFNRVRFUlsiTG9uZ2l0dWRlIG9mIG5hdHVyYWwgb3JpZ2luIiwxNTMsQU5HTEVVTklUWyJkZWdyZWUiLDAuMDE3NDUzMjkyNTE5OTQzM10sSURbIkVQU0ciLDg4MDJdXSxQQVJBTUVURVJbIlNjYWxlIGZhY3RvciBhdCBuYXR1cmFsIG9yaWdpbiIsMC45OTk2LFNDQUxFVU5JVFsidW5pdHkiLDFdLElEWyJFUFNHIiw4ODA1XV0sUEFSQU1FVEVSWyJGYWxzZSBlYXN0aW5nIiw1MDAwMDAsTEVOR1RIVU5JVFsibWV0cmUiLDFdLElEWyJFUFNHIiw4ODA2XV0sUEFSQU1FVEVSWyJGYWxzZSBub3J0aGluZyIsMTAwMDAwMDAsTEVOR1RIVU5JVFsibWV0cmUiLDFdLElEWyJFUFNHIiw4ODA3XV1dLENTW0NhcnRlc2lhbiwyXSxBWElTWyIoRSkiLGVhc3QsT1JERVJbMV0sTEVOR1RIVU5JVFsibWV0cmUiLDFdXSxBWElTWyIoTikiLG5vcnRoLE9SREVSWzJdLExFTkdUSFVOSVRbIm1ldHJlIiwxXV0sVVNBR0VbU0NPUEVbIkVuZ2luZWVyaW5nIHN1cnZleSwgdG9wb2dyYXBoaWMgbWFwcGluZy4iXSxBUkVBWyJBdXN0cmFsaWEgLSBvbnNob3JlIGFuZCBvZmZzaG9yZSBiZXR3ZWVuIDE1MMKwRSBhbmQgMTU2wrBFLiJdLEJCT1hbLTU4Ljk2LDE1MCwtMTMuODcsMTU2XV0sSURbIkVQU0ciLDI4MzU2XV0A",
+        "description": "OGC Transformation Record",
+        "record_id": 2112,
+        "user_id": "LASF_Projection"
+      },
+      "vlr_3": {
+        "data": "AwAAAAMEAwAAAAAAUMMAAP////////////////////8BAAoAHgADAA==",
+        "description": "LASzip DLL 3.4 r3 (191111)",
+        "record_id": 22204,
+        "user_id": "laszip encoded"
+      }
+    }
+  },
+  "path": "sandstone_ridge.laz",
+  "pipeline": [
+    {
+      "filename": "sandstone_ridge.laz"
+    }
+  ],
+  "points": 407231,
+  "schema": [
+    {
+      "count": 407231,
+      "maximum": 337070,
+      "mean": 336968.1157218039,
+      "minimum": 336870,
+      "name": "X",
+      "scale": 0.001,
+      "size": 4,
+      "stddev": 54.09608309829422,
+      "type": "signed",
+      "variance": 2926.386206577554
+    },
+    {
+      "count": 407231,
+      "maximum": 6248459.999,
+      "mean": 6248350.8191128,
+      "minimum": 6248260.001,
+      "name": "Y",
+      "offset": 6000000,
+      "scale": 0.001,
+      "size": 4,
+      "stddev": 53.52516975820199,
+      "type": "signed",
+      "variance": 2864.943797644341
+    },
+    {
+      "count": 407231,
+      "maximum": 105.215,
+      "mean": 72.66495330414547,
+      "minimum": 51.423,
+      "name": "Z",
+      "scale": 0.001,
+      "size": 4,
+      "stddev": 10.873742203045294,
+      "type": "signed",
+      "variance": 118.23826949828833
+    },
+    {
+      "count": 407231,
+      "maximum": 251,
+      "mean": 10.546286996815175,
+      "minimum": 0,
+      "name": "Intensity",
+      "size": 2,
+      "stddev": 8.48393402105019,
+      "type": "unsigned",
+      "variance": 71.97713647353287
+    },
+    {
+      "count": 407231,
+      "maximum": 5,
+      "mean": 1.6060245904658768,
+      "minimum": 1,
+      "name": "ReturnNumber",
+      "size": 1,
+      "stddev": 0.8260535720253949,
+      "type": "unsigned",
+      "variance": 0.6823645038559143
+    },
+    {
+      "count": 407231,
+      "maximum": 5,
+      "mean": 2.213876153829168,
+      "minimum": 1,
+      "name": "NumberOfReturns",
+      "size": 1,
+      "stddev": 1.0356344684687353,
+      "type": "unsigned",
+      "variance": 1.07253875228052
+    },
+    {
+      "count": 407231,
+      "maximum": 1,
+      "mean": 0.5034660917268159,
+      "minimum": 0,
+      "name": "ScanDirectionFlag",
+      "size": 1,
+      "stddev": 0.4999879860638086,
+      "type": "unsigned",
+      "variance": 0.24998798620814328
+    },
+    {
+      "count": 407231,
+      "maximum": 0,
+      "mean": 0,
+      "minimum": 0,
+      "name": "EdgeOfFlightLine",
+      "size": 1,
+      "stddev": 0,
+      "type": "unsigned",
+      "variance": 0
+    },
+    {
+      "count": 407231,
+      "counts": [
+        {
+          "count": 143954,
+          "value": 2
+        },
+        {
+          "count": 27498,
+          "value": 3
+        },
+        {
+          "count": 10002,
+          "value": 4
+        },
+        {
+          "count": 222862,
+          "value": 5
+        },
+        {
+          "count": 1594,
+          "value": 6
+        },
+        {
+          "count": 1308,
+          "value": 7
+        },
+        {
+          "count": 13,
+          "value": 18
+        }
+      ],
+      "maximum": 18,
+      "mean": 3.790659355500931,
+      "minimum": 2,
+      "name": "Classification",
+      "size": 1,
+      "stddev": 1.426801588729616,
+      "type": "unsigned",
+      "variance": 2.035762773601356
+    },
+    {
+      "count": 407231,
+      "maximum": 4.001999855041504,
+      "mean": 0.8104987276679576,
+      "minimum": -1.9980000257492065,
+      "name": "ScanAngleRank",
+      "size": 4,
+      "stddev": 1.5740890146459114,
+      "type": "float",
+      "variance": 2.4777562260289363
+    },
+    {
+      "count": 407231,
+      "maximum": 1,
+      "mean": 0.5098973309988588,
+      "minimum": 0,
+      "name": "UserData",
+      "size": 1,
+      "stddev": 0.4999020332416129,
+      "type": "unsigned",
+      "variance": 0.24990204283909867
+    },
+    {
+      "count": 407231,
+      "maximum": 11,
+      "mean": 11,
+      "minimum": 11,
+      "name": "PointSourceId",
+      "size": 2,
+      "stddev": 0,
+      "type": "unsigned",
+      "variance": 0
+    },
+    {
+      "count": 407231,
+      "maximum": 273190167.0620806,
+      "mean": 273190165.8000798,
+      "minimum": 273190164.5427289,
+      "name": "GpsTime",
+      "size": 8,
+      "stddev": 0.6070411945171555,
+      "type": "float",
+      "variance": 0.368499011840815
+    },
+    {
+      "count": 407231,
+      "maximum": 0,
+      "mean": 0,
+      "minimum": 0,
+      "name": "ScanChannel",
+      "size": 1,
+      "stddev": 0,
+      "type": "unsigned",
+      "variance": 0
+    },
+    {
+      "count": 407231,
+      "maximum": 2,
+      "mean": 0.059401175254339786,
+      "minimum": 0,
+      "name": "ClassFlags",
+      "size": 1,
+      "stddev": 0.3395200301706559,
+      "type": "unsigned",
+      "variance": 0.11527385088708308
+    }
+  ],
+  "srs": {
+    "authority": "EPSG",
+    "horizontal": "28356",
+    "wkt": "PROJCRS[\"GDA94 / MGA zone 56\",BASEGEOGCRS[\"GDA94\",DATUM[\"Geocentric Datum of Australia 1994\",ELLIPSOID[\"GRS 1980\",6378137,298.257222101,LENGTHUNIT[\"metre\",1]]],PRIMEM[\"Greenwich\",0,ANGLEUNIT[\"degree\",0.0174532925199433]],ID[\"EPSG\",4283]],CONVERSION[\"Map Grid of Australia zone 56\",METHOD[\"Transverse Mercator\",ID[\"EPSG\",9807]],PARAMETER[\"Latitude of natural origin\",0,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8801]],PARAMETER[\"Longitude of natural origin\",153,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8802]],PARAMETER[\"Scale factor at natural origin\",0.9996,SCALEUNIT[\"unity\",1],ID[\"EPSG\",8805]],PARAMETER[\"False easting\",500000,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8806]],PARAMETER[\"False northing\",10000000,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8807]]],CS[Cartesian,2],AXIS[\"(E)\",east,ORDER[1],LENGTHUNIT[\"metre\",1]],AXIS[\"(N)\",north,ORDER[2],LENGTHUNIT[\"metre\",1]],USAGE[SCOPE[\"Engineering survey, topographic mapping.\"],AREA[\"Australia - onshore and offshore between 150°E and 156°E.\"],BBOX[-58.96,150,-13.87,156]],ID[\"EPSG\",28356]]"
+  }
+}
