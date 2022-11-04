@@ -57,6 +57,21 @@
 </ul>
 </p>
 
+<p>
+<a href="https://adrian-g-fisher.github.io/3d_models/columbia_hills_east/index.html">Columbia Hills East (Mars)</a>
+<ul style="padding-left:20px">
+<li>The 20 m resolution <a href="https://astrogeology.usgs.gov/search/map/Mars/Mars2020/landing_site/F21_043907_1652_F21_043841_1654_20m_DTM">DEM</a> and 6 m resolution <a href="https://astrogeology.usgs.gov/search/map/Mars/Mars2020/landing_site/F21_043907_1652_XN_14S184W_6m_ORTHO">orthomosaic</a> data are from USGS. The monochrome orthomosaic is displayed using a pseudocolor ramp. The model is 26 km by 54 km and vertical exaggeration is 2.</li>
+</ul>
+</p>
+
+<p>
+<a href="https://adrian-g-fisher.github.io/3d_models/columbia_hills_east_zoom/index.html">Columbia Hills East Zoom (Mars)</a>
+<ul style="padding-left:20px">
+<li>The 1 m resolution DEM and 0.25 m resolution orthomosaic data are from <a href="https://www.uahirise.org/dtm/dtm.php?ID=ESP_049788_1655">The University of Arizona</a>. The monochrome orthomosaic is displayed using a pseudocolor ramp. The model is 4.5 km by 12 km and vertical exaggeration is 2.</li>
+</ul>
+</p>
+
+
 <hr>
 <p>
 Most of the models were made using:
