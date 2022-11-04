@@ -58,7 +58,7 @@
 </p>
 
 <p>
-<a href="https://adrian-g-fisher.github.io/3d_models/columbia_hills_east/columbia_hills_east.html">Columbia Hills East (Mars)</a>
+<a href="https://adrian-g-fisher.github.io/3d_models/columbia_hills_east/index.html">Columbia Hills East (Mars)</a>
 <ul style="padding-left:20px">
 <li>DEM and orthomosaic data from USGS and ASU. Vertical exaggeration is 2.</li>
 </ul>
