@@ -64,6 +64,14 @@
 </ul>
 </p>
 
+<p>
+<a href="https://adrian-g-fisher.github.io/3d_models/columbia_hills_east_zoom/index.html">Columbia Hills East Zoom (Mars)</a>
+<ul style="padding-left:20px">
+<li>The 1 m resolution DEM and 0.25 m resolution orthomosaic data are from <a href="https://www.uahirise.org/dtm/dtm.php?ID=ESP_049788_1655">The University of Arizona</a>. The monochrome orthomosaic is displayed using a pseudocolor ramp. The model is 4.5 km by 12 km and vertical exaggeration is 2.</li>
+</ul>
+</p>
+
+
 <hr>
 <p>
 Most of the models were made using:
