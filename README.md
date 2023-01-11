@@ -1,4 +1,4 @@
-<p>The following 3D _models_ were created to show different landscapes across New South Wales (NSW), Australia, using freely available data and software. On steep slopes and cliffs the imagery may be distorted. The size and vertical exaggeration of each model varies.</p>
+<p>The following 3D models were created to show different landscapes across New South Wales (NSW), Australia, using freely available data and software. On steep slopes and cliffs the imagery may be distorted. The size and vertical exaggeration of each model varies.</p>
 <p>Use these controls to zoom, rotate and pan the models:</p>
 <p>
 <ul style="padding-left:20px">
