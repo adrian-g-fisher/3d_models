@@ -8,6 +8,13 @@
 </ul>
 </p>
 <p>
+<a href="https://adrian-g-fisher.github.io/3d_models/snowy_mountains/snowy_mountains.html">Snowy Mountains (Kosciuszko National Park Main Range)</a>
+<ul style="padding-left:20px">
+<li>The model is a 20 km x 20 km using a DEM with 2 m pixels derived from airborne lidar. It has a vertical exaggeration of 2. The location of the smaller Mt Kosciuszko model is shown in red.</li>
+</ul>
+</p>
+<p>
+<p>
 <a href="https://adrian-g-fisher.github.io/3d_models/kosciuszko/kosciuszko.html">Mt Kosciuszko</a>
 <ul style="padding-left:20px">
 <li>The model is a 2 km x 2 km tile using a DEM with 2 m pixels derived from airborne lidar. It has a vertical exaggeration of 2.</li>
